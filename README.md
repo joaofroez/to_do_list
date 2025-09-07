@@ -2,7 +2,7 @@
 
 Uma aplicação web front-end para gerenciamento de tarefas, construída com HTML, CSS e JavaScript puro.
 
-![Screenshot da Aplicação](![alt text](image.png))
+![alt text](image.png)
 
 ### ✨ Funcionalidades
 
@@ -12,7 +12,7 @@ Uma aplicação web front-end para gerenciamento de tarefas, construída com HTM
 
 ### 🚀 Teste a Aplicação Online
 
-**[Acesse a demonstração aqui!](https://seu-usuario.github.io/nome-do-repositorio/)**
+**[Acesse a demonstração aqui!](https://joaofroez.github.io/to_do_list/)**
 
 ### 🛠️ Tecnologias Utilizadas
 
